@@ -3,4 +3,114 @@
    uuid = "0B69156D-C3E8-4E0F-8980-BDE273EDE112"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A65402C-EE58-4D40-AC29-A66D8253644B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ElementQuiz/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0A65402C-EE58-4D40-AC29-A66D8253644B - a7361a362153e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ElementQuiz.ViewController.textField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ElementQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Software%20Developer/Documents/GitHub/ElementQuiz/ElementQuiz/ElementQuiz/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "0A65402C-EE58-4D40-AC29-A66D8253644B - 5965eb07a5544205"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ElementQuiz.ViewController.textField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ElementQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Software%20Developer/Documents/GitHub/ElementQuiz/ElementQuiz/ElementQuiz/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "0A65402C-EE58-4D40-AC29-A66D8253644B - 4c8a7dc64e787914"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ElementQuiz.ViewController.textField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ElementQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Software%20Developer/Documents/GitHub/ElementQuiz/ElementQuiz/ElementQuiz/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0A65402C-EE58-4D40-AC29-A66D8253644B - 397e74575e696a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ElementQuiz.ViewController.textField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ElementQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Software%20Developer/Documents/GitHub/ElementQuiz/ElementQuiz/ElementQuiz/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "0A65402C-EE58-4D40-AC29-A66D8253644B - 78746ec5f7ca6fab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ElementQuiz.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ElementQuiz.ViewController"
+                  moduleName = "ElementQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Software%20Developer/Documents/GitHub/ElementQuiz/ElementQuiz/ElementQuiz/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "0A65402C-EE58-4D40-AC29-A66D8253644B - 70769a1638c6190e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ElementQuiz.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ElementQuiz.ViewController&gt;"
+                  moduleName = "ElementQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Software%20Developer/Documents/GitHub/ElementQuiz/ElementQuiz/ElementQuiz/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
